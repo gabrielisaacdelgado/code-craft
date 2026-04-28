@@ -1,4 +1,5 @@
-💻 Link para a visualização do projeto: 
+💻 Link para a visualização do projeto: https://gabrielisaacdelgado.github.io/code-craft/
+
 
 ![image](https://github.com/user-attachments/assets/e5210929-fbfc-4f52-ac23-9f3106070514)
 
